@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UnityProjects\\Flap Fury\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E595572-9FA4-4659-68A5-9CD8299A2CE5}|Assembly-CSharp.csproj|c:\\unityprojects\\flap fury\\assets\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E595572-9FA4-4659-68A5-9CD8299A2CE5}|Assembly-CSharp.csproj|solutionrelative:assets\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E595572-9FA4-4659-68A5-9CD8299A2CE5}|Assembly-CSharp.csproj|c:\\unityprojects\\flap fury\\assets\\pillarspawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E595572-9FA4-4659-68A5-9CD8299A2CE5}|Assembly-CSharp.csproj|solutionrelative:assets\\pillarspawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E595572-9FA4-4659-68A5-9CD8299A2CE5}|Assembly-CSharp.csproj|C:\\UnityProjects\\Flap Fury\\assets\\pillarmovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E595572-9FA4-4659-68A5-9CD8299A2CE5}|Assembly-CSharp.csproj|solutionrelative:assets\\pillarmovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E595572-9FA4-4659-68A5-9CD8299A2CE5}|Assembly-CSharp.csproj|C:\\UnityProjects\\Flap Fury\\assets\\toothlessscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E595572-9FA4-4659-68A5-9CD8299A2CE5}|Assembly-CSharp.csproj|solutionrelative:assets\\toothlessscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToothlessScript.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\Flap Fury\\Assets\\ToothlessScript.cs",
+              "RelativeDocumentMoniker": "Assets\\ToothlessScript.cs",
+              "ToolTip": "C:\\UnityProjects\\Flap Fury\\Assets\\ToothlessScript.cs",
+              "RelativeToolTip": "Assets\\ToothlessScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T19:39:37.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PillarMoveScript.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\Flap Fury\\Assets\\PillarMoveScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PillarMoveScript.cs",
+              "ToolTip": "C:\\UnityProjects\\Flap Fury\\Assets\\PillarMoveScript.cs",
+              "RelativeToolTip": "Assets\\PillarMoveScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:24:20.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PillarSpawnScript.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\Flap Fury\\Assets\\PillarSpawnScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PillarSpawnScript.cs",
+              "ToolTip": "C:\\UnityProjects\\Flap Fury\\Assets\\PillarSpawnScript.cs",
+              "RelativeToolTip": "Assets\\PillarSpawnScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:34:45.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogicScript.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\Flap Fury\\Assets\\LogicScript.cs",
+              "RelativeDocumentMoniker": "Assets\\LogicScript.cs",
+              "ToolTip": "C:\\UnityProjects\\Flap Fury\\Assets\\LogicScript.cs",
+              "RelativeToolTip": "Assets\\LogicScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:23:47.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
